@@ -1,0 +1,5 @@
+2 Audiocrast 3.5mm_(senh_hd) 2000
+4 Openheart 3.5mm_(2(3.5mm)) 2200
+1 ivipQ 3.5mm_(0.78mm_2pin) 10700
+5 ivipQ 3.5mm_(mmcx) 2500
+3 ATAUDIO 3.5mm_(3.5mm) 1800
